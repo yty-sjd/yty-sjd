@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **interesting projects**
-- 🌱 I'm currently learning **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **anything you'd like**
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 🔭 Currently working on **Ops & Backend Development**
+- 🌱 Currently learning **AI Workflows & Prompt Engineering**
+- 👯 Looking to collaborate on **Game Development**
+- 💬 Love discussing **project architecture and system design**
+- 📫 Reach me: **[2645551579@qq.com](mailto:2645551579@qq.com)**
 
 ---
 
