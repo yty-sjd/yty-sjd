@@ -60,6 +60,27 @@
 
 ---
 
+## 🖼️ Projects
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github.com/user-attachments/assets/ff72ba93-d3dd-41e0-afa0-3be31f2edcc2" alt="TBS" width="100%" />
+        <br />
+        <b>TBS</b>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github.com/user-attachments/assets/aedc7477-ce9d-45db-8d38-db6ec898222d" alt="Survive" width="100%" />
+        <br />
+        <b>Survive</b>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
