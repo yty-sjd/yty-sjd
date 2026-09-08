@@ -73,29 +73,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yty-sjd&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yty-sjd&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://github.com/yty-sjd">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:2645551579@qq.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
